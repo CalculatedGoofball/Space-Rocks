@@ -26,8 +26,16 @@ It's really simple!
 |Space|Fire laser blasts!|
 |Left Shift|Charge up a BIG laser blast!|
 
+## Development
+
+- **Engine:** GameMaker Studio LTS 2022
+- **Programming:** GML Visual
+- **Development Time:** ~3–4 weeks
+- **Team:** Solo Project
+- **Release Date:** December 2024
+
 ## Developer's Notes
-This is the first "true" video game I ever created, as part of my high school's game development class.  It's not the highest quality, but it's a fun little game you can play when you're bored.  Took about 3-4 weeks to make, and was a solo build.  Made (as all of my GameMaker games are) with GML Visual, because it's easy to use and also I never learned JavaScript.  It's very very unlikely that I come back and make any updates to this game, but it's always a possibility!
+This is the first "true" video game I ever created, as part of my high school's game development class.  It's not the highest quality, but it's a fun little game you can play when you're bored.  The only "videogame" i ever created prior to this was a *very* simple CLI text adventure game in Python.  This, however, was made (as all of my GameMaker games are) with GML Visual, because it's easy to use and also I never learned JavaScript.  It's very very unlikely that I come back and make any updates to this game, but it's always a possibility!
 
 Lexi "CalculatedGoofball" B.
 (President, CEO, CFO, Sole Developer, and Janitor of CG Studios)
@@ -35,11 +43,8 @@ Lexi "CalculatedGoofball" B.
 
 
 
-
-
+## License
 © 2024 CG Studios.  All Rights Reserved.
 The original code, artwork, game design, and other original content created for Space Rocks are the property of CG Studios and are not released under an open-source license.
-
 Third-party assets and media are not covered by the CG Studios copyright notice above and remain subject to their respective copyrights and licenses.
-
 This repository is provided as a historical/portfolio archive of the project. No rights to third-party content are claimed by CG Studios.
